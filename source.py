@@ -6,7 +6,7 @@ import random as rd
 BOT_TOKEN = os.environ.get('BOT_TOKEN')
 bot = telebot.TeleBot(BOT_TOKEN)
 
-game = ['Mobile Legends', 'Free Fire', 'Genshin Impact', 'Final Fantasy']
+game = ['Mobile Legends', 'Free Fire', 'Genshin Impact', 'Final Fantasy', 'Harvest Moon']
 
 @bot.message_handler(commands=['reset'])
 def send_message(message):
