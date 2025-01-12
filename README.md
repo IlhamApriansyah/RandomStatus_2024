@@ -1,4 +1,11 @@
 # Random Status (Update)
-Kali ini, pake library dari PyTelegramBotAPI 
 
-dokumentasi : https://github.com/eternnoir/pyTelegramBotAPI
+Kali ini menggunakan library dari PyTelegramBotAPI 
+
+referensi sebelumnya :
+
+[Random Status API](https://github.com/IlhamApriansyah/Random-Status-API)
+
+dokumentasi library : 
+
+[PyTelegramBot](https://github.com/eternnoir/pyTelegramBotAPI)
